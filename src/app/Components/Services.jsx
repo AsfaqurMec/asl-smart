@@ -2,12 +2,12 @@
 /* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
 
-import img3 from '../public/Screenshot 2024-08-19 223411.png'
-import img4 from '../public/Screenshot 2024-08-19 223432.png'
-import img5 from '../public/Screenshot 2024-08-19 223441.png'
-import img6 from '../public/Screenshot 2024-08-19 223454.png'
-import img7 from '../public/Screenshot 2024-08-19 223503.png'
-import img8 from '../public/Screenshot 2024-08-19 223518.png'
+import img3 from '../../../public/Screenshot 2024-08-19 223411.png'
+import img4 from '../../../public/Screenshot 2024-08-19 223432.png'
+import img5 from '../../../public/Screenshot 2024-08-19 223441.png'
+import img6 from '../../../public/Screenshot 2024-08-19 223454.png'
+import img7 from '../../../public/Screenshot 2024-08-19 223503.png'
+import img8 from '../../../public/Screenshot 2024-08-19 223518.png'
 
 const Services = () => {
     return (

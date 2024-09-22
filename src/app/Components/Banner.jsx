@@ -1,14 +1,14 @@
 /* eslint-disable react/no-unescaped-entities */
 "use client"
 import Image from 'next/image';
-import banner from '../public/Screenshot 2024-08-19 022530.png'
+import banner from '../../../public/Screenshot 2024-08-19 022530.png'
 // import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
 import AOS from 'aos';
 import { useEffect } from 'react';
 
-import img1 from '../public/Screenshot 2024-08-19 223339.png'
-import img2 from '../public/Screenshot 2024-08-19 223353.png'
+import img1 from '../../../public/Screenshot 2024-08-19 223339.png'
+import img2 from '../../../public/Screenshot 2024-08-19 223353.png'
 
 const Banner = () => {
   

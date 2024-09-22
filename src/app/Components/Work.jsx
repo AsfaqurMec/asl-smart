@@ -2,11 +2,11 @@
 /* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
 
-import img9 from '../public/Screenshot 2024-08-19 223532.png'
-import img10 from '../public/Screenshot 2024-08-19 223540.png'
-import img11 from '../public/Screenshot 2024-08-19 223549.png'
-import img12 from '../public/Screenshot 2024-08-19 223606.png'
-import img13 from '../public/Screenshot 2024-08-19 190600.png'
+import img9 from '../../../public/Screenshot 2024-08-19 223532.png'
+import img10 from '../../../public/Screenshot 2024-08-19 223540.png'
+import img11 from '../../../public/Screenshot 2024-08-19 223549.png'
+import img12 from '../../../public/Screenshot 2024-08-19 223606.png'
+import img13 from '../../../public/Screenshot 2024-08-19 190600.png'
 
 // import AOS from 'aos';
 import 'aos/dist/aos.css';

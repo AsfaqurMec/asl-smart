@@ -1,7 +1,7 @@
 "use client"
 import React from 'react';
 import Image from "next/image";
-import banner from '../public/Screenshot 2024-08-19 022627.png'
+import banner from '../../../public/Screenshot 2024-08-19 022627.png'
 
 // import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles

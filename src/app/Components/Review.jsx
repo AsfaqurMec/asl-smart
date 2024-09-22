@@ -18,11 +18,11 @@ import 'aos/dist/aos.css'; // You can also use <link> for styles
 import AOS from 'aos';
 import { useEffect } from "react";
 
-import image1 from '../public/img1.png'
-import image2 from '../public/download (2).jpeg'
-import image3 from '../public/download (6).jpeg'
-import image4 from '../public/download (4).jpeg'
-import image5 from '../public/download (5).jpeg'
+import image1 from '../../../public/img1.png'
+import image2 from '../../../public/download (2).jpeg'
+import image3 from '../../../public/download (6).jpeg'
+import image4 from '../../../public/download (4).jpeg'
+import image5 from '../../../public/download (5).jpeg'
 import Image from 'next/image';
 
 const Review = () => {
