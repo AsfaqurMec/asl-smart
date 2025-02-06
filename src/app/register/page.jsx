@@ -22,7 +22,7 @@ const page = () => {
         };
       
         try {
-          const resp = await fetch("http://localhost:3000/register/api", {
+          const resp = await fetch("https://asl-smart-class-scheduling.vercel.app/register/api", {
             method: "POST",
             body: JSON.stringify(newUser),
             headers: {
