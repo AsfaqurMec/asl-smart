@@ -1,19 +1,32 @@
 import Image from "next/image";
 
-import About from "./Components/About";
-import Services from "./Components/Services";
-import Work from "./Components/Work";
-import Review from "./Components/Review";
 import Banner from "./Components/Banner";
+import Sidebar from "./Components/Sidebar";
+
+// import Role from "./Components/Role.jsx";
+
 
 export default function Home() {
   return (
     <>
-    <Banner></Banner>
-    <About></About>
-    <Services></Services>
-    <Work></Work>
-    <Review></Review>
+    <div className="flex">
+
+   <div className="w-[10%]">
+
+  <Sidebar></Sidebar>
+   
+   </div>
+      <div className="w-[90%]">
+      <Banner></Banner>
+      </div>
+    </div>
+    
+     {/* <div className="pt-32 bg-blue-400 min-h-screen">
+
+     <Role></Role>
+
+     </div> */}
+
     </>
   );
 }
